@@ -1,0 +1,12 @@
+file_format: "1"
+id: levinson
+name: Levinson
+type: shield
+url: https://keeb.io/collections/clearance/products/levinson-lets-split-w-led-backlight
+requires: [pro_micro]
+features: 
+  - keys
+  - underglow
+siblings:
+  - levinson_left
+  - levinson_right
